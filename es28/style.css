@@ -1,0 +1,14 @@
+.testo{
+    font-family: 'Josefin Sans', sans-serif;
+    color: chartreuse;
+}
+
+.test{
+    font-family: 'Playfair Display', serif;
+    width: 500px;
+    height: 800px;
+    background-image: url(media/new\ york.jpg);
+    background-size:cover;
+    background-position: center;
+
+}

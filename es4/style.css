@@ -1,0 +1,26 @@
+.flex-container{
+background-image: url(media/MARKETING.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+/* height: 100px;
+width: 100p; */
+display: flex;
+justify-content: center;
+align-items:center ;
+}
+
+.flex-item{ 
+font-family: 'Playfair Display', serif;
+font-size: 100px;
+font-weight: 100;
+text-transform: capitalize;
+text-shadow: 5px 10px 5px black;
+color: rgba(180, 233, 174, 0.965);
+
+
+}
+
+/* #bottoncino{
+    dro
+
+} */
